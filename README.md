@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error: ZeroDivisionError. The `bug.py` file contains a function `calculate_average` that calculates the average of a list of numbers.  The function includes error handling to gracefully handle empty lists. The `bugSolution.py` is same as the `bug.py` file.
